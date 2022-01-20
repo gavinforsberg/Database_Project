@@ -1,0 +1,15 @@
+Bills,,,
+,,,
+PID,BillingAddress,BillID,ProgID
+12345,124 Chase Dr,123,1
+12345,124 Chase Dr,456,3
+67890,5284 Tamarck Dr,789,4
+45589,7896 Hollow Dr,210,2
+78965,1258 Creek Dr,310,3
+78966,4589 Granite Dr ,987,4
+23456,9635 Carrington St.,695,2
+96321,6021 Teaticket Hwy,365,1
+96321,378 E. James St.,471,2
+12578,7262 Halifax Ave.,128,2
+12548,31 Hillcrest St.,982,3
+11789,70 Pleasant Dr,458,1

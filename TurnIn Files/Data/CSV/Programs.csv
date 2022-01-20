@@ -1,0 +1,5 @@
+ProgramID,PName,Age (Upper Bound),Room,Cost (Monthly), 
+1,Infant,1,A,$975,
+2,Toddler,2,B,$850,
+3,Pre-School,5,C,$775,
+4,Gradeschool,12,D,$500,
